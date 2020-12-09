@@ -70,6 +70,11 @@ footer a{
     background-position: center;
     position: relative;
 }
+/* this should override the hero above with the new color
+.hero-secondary {
+    background-color: black;
+    color: red;
+}*/
 .hero-form {
     background-color: #fce138;
     padding: 20px;
